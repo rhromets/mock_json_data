@@ -1,0 +1,56 @@
+[
+    {
+        "id": "1",
+        "imageUrl": "https://raw.githubusercontent.com/rhromets/mock_json_data/main/coffee_images/coffee-1.png",
+        "name": "Cafe Mocha",
+        "card_subtitle": "Deep Foam",
+        "price": "4.53",
+        "raiting": "4.8",
+        "description": "A cappuccino is an approximately 150 ml (5 oz) beverage, with 25 ml of espresso coffee and 85ml of fresh milk the fo ..."
+    },
+    {
+        "id": "2",
+        "imageUrl": "https://raw.githubusercontent.com/rhromets/mock_json_data/main/coffee_images/coffee-2.png",
+        "name": "Flat White",
+        "card_subtitle": "Espresso",
+        "price": "3.53",
+        "raiting": "4.6",
+        "description": "A Flat White description ..."
+    },
+    {
+        "id": "3",
+        "imageUrl": "https://raw.githubusercontent.com/rhromets/mock_json_data/main/coffee_images/coffee-3.png",
+        "name": "Doppio",
+        "card_subtitle": "Espresso",
+        "price": "3.80",
+        "raiting": "4.7",
+        "description": "A Doppio description ..."
+    },
+    {
+        "id": "4",
+        "imageUrl": "https://raw.githubusercontent.com/rhromets/mock_json_data/main/coffee_images/coffee-4.png",
+        "name": "Cafe Latte",
+        "card_subtitle": "Corretto",
+        "price": "4.65",
+        "raiting": "4.9",
+        "description": "A Cafe Latte description ..."
+    },
+    {
+        "id": "5",
+        "imageUrl": "https://raw.githubusercontent.com/rhromets/mock_json_data/main/coffee_images/coffee-5.png",
+        "name": "Raf Cafe",
+        "card_subtitle": "Corretto",
+        "price": "3.53",
+        "raiting": "4.8",
+        "description": "A Raf Cafe Latte description ..."
+    },
+    {
+        "id": "6",
+        "imageUrl": "https://raw.githubusercontent.com/rhromets/mock_json_data/main/coffee_images/coffee-6.png",
+        "name": "Glace",
+        "card_subtitle": "Espresso",
+        "price": "5.00",
+        "raiting": "4.9",
+        "description": "A Glace Latte description ..."
+    }
+]
